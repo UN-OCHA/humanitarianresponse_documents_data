@@ -1097,7 +1097,7 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'uuid' => 'b6176c55-ba7c-7914-993c-26e844fa42ce',
     'vocabulary_machine_name' => 'document_types',
-    'weight' => '0',
+    'weight' => '10',
   );
   $entities['document_types'][] = (object) array(
     '__metadata' => array(
