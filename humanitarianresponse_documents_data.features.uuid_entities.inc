@@ -298,6 +298,54 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
   $entities['document_types'][] = (object) array(
     '__metadata' => array(
       'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/74998571-0fee-f184-119c-73c1aedc9b10',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'format' => 'filtered_html',
+    'name' => 'Snapshots',
+    'parent' => array(
+      0 => '8354cddf-f005-34d4-e9f5-1f02ce24ec61',
+    ),
+    'path' => array(
+      'alias' => 'document-types/snapshots',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => '74998571-0fee-f184-119c-73c1aedc9b10',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
       'uri' => 'taxonomy_term/60656201-6dbe-2d04-8916-aa3db035a121',
       'cause' => FALSE,
     ),
