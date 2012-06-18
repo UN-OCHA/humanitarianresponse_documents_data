@@ -154,6 +154,54 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
   $entities['document_types'][] = (object) array(
     '__metadata' => array(
       'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/31afa99a-6f2a-1484-6504-9c60192befbb',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'format' => 'plain_text',
+    'name' => 'Humanitarian Bulletin',
+    'parent' => array(
+      0 => '8354cddf-f005-34d4-e9f5-1f02ce24ec61',
+    ),
+    'path' => array(
+      'alias' => 'document-types/humanitarian-bulletin',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => '31afa99a-6f2a-1484-6504-9c60192befbb',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
       'uri' => 'taxonomy_term/be289d4d-8a56-3a74-1575-733640326e6e',
       'cause' => FALSE,
     ),
@@ -292,6 +340,54 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'uuid' => 'cb8c7108-c928-6384-e973-eb9b79240c94',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/74998571-0fee-f184-119c-73c1aedc9b10',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'format' => 'plain_text',
+    'name' => 'Snapshot',
+    'parent' => array(
+      0 => '8354cddf-f005-34d4-e9f5-1f02ce24ec61',
+    ),
+    'path' => array(
+      'alias' => 'document-types/snapshot',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => '74998571-0fee-f184-119c-73c1aedc9b10',
     'vocabulary_machine_name' => 'document_types',
     'weight' => '0',
   );
