@@ -1222,6 +1222,98 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
   $entities['document_types'][] = (object) array(
     '__metadata' => array(
       'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/bc460845-5c27-1234-65a1-c1afdddd4b38',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'language' => 'und',
+    'name' => 'Case Study',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Case Study',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Case Study',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Etude de Cas',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => 'bff634e1-56a1-2ff4-85e6-93751814f2e5',
+    ),
+    'path' => array(
+      'alias' => 'document-types/case-study',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => 'bc460845-5c27-1234-65a1-c1afdddd4b38',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
       'uri' => 'taxonomy_term/8aa14ce5-c267-6e84-41a5-631b262feac3',
       'cause' => FALSE,
     ),
@@ -1843,6 +1935,190 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'uuid' => '15be65bb-4e55-97c4-b1a0-2af101848f22',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/ca7a34ac-e14a-6354-c193-df86bd9aa523',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'language' => 'und',
+    'name' => 'Evaluation',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Evaluation',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Evaluation',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Evaluation',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => '15be65bb-4e55-97c4-b1a0-2af101848f22',
+    ),
+    'path' => array(
+      'alias' => 'document-types/evaluation',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => 'ca7a34ac-e14a-6354-c193-df86bd9aa523',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/e6a5ebfc-e41b-d964-019b-a8b7436253dc',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'language' => 'und',
+    'name' => 'Good Practice',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Good Practice',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Good Practice',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Bonne Pratique',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => '15be65bb-4e55-97c4-b1a0-2af101848f22',
+    ),
+    'path' => array(
+      'alias' => 'document-types/good-practice',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => 'e6a5ebfc-e41b-d964-019b-a8b7436253dc',
     'vocabulary_machine_name' => 'document_types',
     'weight' => '0',
   );
@@ -2930,6 +3206,98 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'uuid' => 'a2b2f3ef-a445-d544-25d3-2e39a2cf36cc',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/f4710705-ae9c-4e74-1dc8-6ed3fb3d59e1',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'language' => 'und',
+    'name' => 'Terms of Reference',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Terms of Reference',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Terms of Reference',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Terms of Reference',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => 'b6176c55-ba7c-7914-993c-26e844fa42ce',
+    ),
+    'path' => array(
+      'alias' => 'document-types/terms-of-reference',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => 'f4710705-ae9c-4e74-1dc8-6ed3fb3d59e1',
     'vocabulary_machine_name' => 'document_types',
     'weight' => '0',
   );
