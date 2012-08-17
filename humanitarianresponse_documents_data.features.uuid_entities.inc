@@ -561,19 +561,19 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       'und' => array(
         0 => array(
           'format' => NULL,
-          'value' => 'Monitoring / Evaluation Report',
+          'value' => 'Security Report',
         ),
       ),
       'en' => array(
         0 => array(
           'format' => NULL,
-          'value' => 'Monitoring / Evaluation Report',
+          'value' => 'Security Report',
         ),
       ),
       'fr' => array(
         0 => array(
           'format' => NULL,
-          'value' => 'Rapport de Surveillance / d\'Evaluation',
+          'value' => 'Rapport de Sécurité',
         ),
       ),
     ),
@@ -670,19 +670,19 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       'und' => array(
         0 => array(
           'format' => NULL,
-          'value' => 'Monitoring / Evaluation Report',
+          'value' => 'Situation Report',
         ),
       ),
       'en' => array(
         0 => array(
           'format' => NULL,
-          'value' => 'Monitoring / Evaluation Report',
+          'value' => 'Situation Report',
         ),
       ),
       'fr' => array(
         0 => array(
           'format' => NULL,
-          'value' => 'Rapport de Surveillance / d\'Evaluation',
+          'value' => 'Rapport de Situation',
         ),
       ),
     ),
