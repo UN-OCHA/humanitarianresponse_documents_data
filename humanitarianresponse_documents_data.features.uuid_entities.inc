@@ -18,7 +18,7 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
+      'en' => array(
         0 => array(
           'format' => 'plain_text',
           'summary' => NULL,
@@ -27,15 +27,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Reports',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Reports',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -110,13 +104,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a report that examines carefully and methodically a given topic mater; Perhaps broken down for consideration of constituent parts.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a report that examines carefully and methodically a given topic mater; Perhaps broken down for consideration of constituent parts.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -133,15 +120,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Analysis Report',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Analysis Report',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -219,13 +200,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a report that appraises or measures the amount of something; Example: a report outlining the estimated value of damage housing OR the number of affected population.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a report that appraises or measures the amount of something; Example: a report outlining the estimated value of damage housing OR the number of affected population.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -242,15 +216,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Assessment Report',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Assessment Report',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -328,7 +296,7 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
+      'en' => array(
         0 => array(
           'format' => 'plain_text',
           'summary' => NULL,
@@ -337,15 +305,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Humanitarian Bulletin',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Humanitarian Bulletin',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -423,13 +385,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a report that examines the on-going or recently completed actions related to specific item. Example: Real-time Evaluation of Humanitarian Response to Cyclone Nargis.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a report that examines the on-going or recently completed actions related to specific item. Example: Real-time Evaluation of Humanitarian Response to Cyclone Nargis.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -446,15 +401,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Monitoring / Evaluation Report',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Monitoring / Evaluation Report',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -532,13 +481,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a report that outlined the current security situation of a given area, possibly including recent relevant security-related incidences.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a report that outlined the current security situation of a given area, possibly including recent relevant security-related incidences.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -555,15 +497,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Security Report',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Security Report',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -641,13 +577,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a report that outlines the current situation of a given event.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a report that outlines the current situation of a given event.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -664,15 +593,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Situation Report',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Situation Report',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -750,7 +673,7 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
+      'en' => array(
         0 => array(
           'format' => 'plain_text',
           'summary' => NULL,
@@ -759,15 +682,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Snapshot',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Snapshot',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -845,7 +762,7 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
+      'en' => array(
         0 => array(
           'format' => 'plain_text',
           'summary' => NULL,
@@ -854,15 +771,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Planning',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Planning',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -937,13 +848,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a request for specific items (usually financial) to aid in the response to an emergency',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a request for specific items (usually financial) to aid in the response to an emergency',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -960,15 +864,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Appeal',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Appeal',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -1046,13 +944,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'an outline of security measures in place, minimum security preparedness, and responses to be taken in specific security situations.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'an outline of security measures in place, minimum security preparedness, and responses to be taken in specific security situations.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -1069,15 +960,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Security Plan',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Security Plan',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -1155,13 +1040,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'A phased course of action for specific projects or initiatives that typically includes step-by-step detail, timelines, and roles and responsibilities of participants',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'A phased course of action for specific projects or initiatives that typically includes step-by-step detail, timelines, and roles and responsibilities of participants',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -1178,15 +1056,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Work Plan',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Work Plan',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -1264,13 +1136,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a plan of action for a given organization or community of actors in response to a given humanitarian situation.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a plan of action for a given organization or community of actors in response to a given humanitarian situation.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -1287,15 +1152,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Humanitarian Action Plan',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Humanitarian Action Plan',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -1373,7 +1232,7 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
+      'en' => array(
         0 => array(
           'format' => 'plain_text',
           'summary' => NULL,
@@ -1382,15 +1241,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Training and Resource Materials',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Training and Resource Materials',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -1465,13 +1318,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => '',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -1488,15 +1334,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Case Study',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Case Study',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -1574,13 +1414,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'Frequently asked questions regarding processes, procedures, and tools.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'Frequently asked questions regarding processes, procedures, and tools.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -1597,15 +1430,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'FAQs',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'FAQs',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -1683,13 +1510,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'A publication, usually on a technical subject, that may contain a collection of policy instructions, SOPs and/or guidelines on subjects that can be logically grouped to achieve clear outcomes. Compliance with specific aspects is expected or strongly recommended, as applicable.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'A publication, usually on a technical subject, that may contain a collection of policy instructions, SOPs and/or guidelines on subjects that can be logically grouped to achieve clear outcomes. Compliance with specific aspects is expected or strongly recommended, as applicable.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -1706,15 +1526,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Handbook or Manual',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Handbook or Manual',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -1792,13 +1606,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a document containing a set of specific tips or helpful directions on how to use a given item. Example: tips on how to use a website.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a document containing a set of specific tips or helpful directions on how to use a given item. Example: tips on how to use a website.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -1815,15 +1622,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Tip Sheet',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Tip Sheet',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -1901,13 +1702,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'A bundle of materials that support the completion of specific  processes, tasks or products; materials can include instructions, examples, and forms or templates',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'A bundle of materials that support the completion of specific  processes, tasks or products; materials can include instructions, examples, and forms or templates',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -1924,15 +1718,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Toolbox / Toolkit',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Toolbox / Toolkit',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2010,13 +1798,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a document, device, or application that is used to achieve a specific outcome or output.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a document, device, or application that is used to achieve a specific outcome or output.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -2033,15 +1814,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Tool',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Tool',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2119,13 +1894,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'A generic, formatted, and structured document that used as a guide and specification for the creation of specific types of documents',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'A generic, formatted, and structured document that used as a guide and specification for the creation of specific types of documents',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -2142,15 +1910,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Template',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Template',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2228,7 +1990,7 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
+      'en' => array(
         0 => array(
           'format' => 'plain_text',
           'summary' => NULL,
@@ -2237,15 +1999,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Policy and Guidance',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Policy and Guidance',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2320,13 +2076,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => '',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -2343,15 +2092,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Evaluation',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Evaluation',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2429,13 +2172,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => '',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -2452,15 +2188,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Good Practice',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Good Practice',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2538,13 +2268,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'A policy instruction provides an explanation of an organization\'s institutional stance on an important issue or activity within its mandate, and the resulting essential expectations of its staff, in terms of objectives and responsibilities. It may also touch on the broad methods for handling an issue or activity. A policy instruction is the basis for consistent institutional behaviour by staff. Compliance is expected.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'A policy instruction provides an explanation of an organization\'s institutional stance on an important issue or activity within its mandate, and the resulting essential expectations of its staff, in terms of objectives and responsibilities. It may also touch on the broad methods for handling an issue or activity. A policy instruction is the basis for consistent institutional behaviour by staff. Compliance is expected.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -2561,15 +2284,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Policy',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Policy',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2647,13 +2364,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'Guidelines are suggested courses of action, recommendations, principles or considerations on how to deal with an area of activity or an issue. They often help interpret policies when further clarification is needed. They are distinct from SOPs in that they tend to: 1) deal with areas of activity, as opposed to specific tasks and activities; and 2) set parameters for action, as opposed to procedures for achieving a desired result. Compliance is strongly recommended.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'Guidelines are suggested courses of action, recommendations, principles or considerations on how to deal with an area of activity or an issue. They often help interpret policies when further clarification is needed. They are distinct from SOPs in that they tend to: 1) deal with areas of activity, as opposed to specific tasks and activities; and 2) set parameters for action, as opposed to procedures for achieving a desired result. Compliance is strongly recommended.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -2670,15 +2380,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Guidelines',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Guidelines',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2756,13 +2460,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'A standard operating procedure is a standing instruction that provides an organization\'s staff with guidance on how to implement a specific task, process or activity, or to achieve a desired result. They are usually procedural in nature and provide a series of steps to be followed. Compliance is expected.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'A standard operating procedure is a standing instruction that provides an organization\'s staff with guidance on how to implement a specific task, process or activity, or to achieve a desired result. They are usually procedural in nature and provide a series of steps to be followed. Compliance is expected.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -2779,15 +2476,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Standard Operating Procedures',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Standard Operating Procedures',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2865,7 +2556,7 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
+      'en' => array(
         0 => array(
           'format' => 'plain_text',
           'summary' => NULL,
@@ -2874,15 +2565,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Others',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Others',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -2957,13 +2642,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'An understanding between individuals/organizations to follow a specific course of conduct.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'An understanding between individuals/organizations to follow a specific course of conduct.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -2980,15 +2658,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Agreement (MOU)',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Agreement (MOU)',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -3066,13 +2738,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a set of events, such as cluster meetings, organized into a calendar.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a set of events, such as cluster meetings, organized into a calendar.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -3089,15 +2754,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Calendar / Events',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Calendar / Events',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -3175,13 +2834,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'Basic staff information for a single individual or a list of individuals that typically includes name, title, location, phone and email, and brief job responsibilities or expertise areas',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'Basic staff information for a single individual or a list of individuals that typically includes name, title, location, phone and email, and brief job responsibilities or expertise areas',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -3198,15 +2850,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Contact List',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Contact List',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -3284,13 +2930,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'a written/typed message from one person or organization to another.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'a written/typed message from one person or organization to another.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -3307,15 +2946,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Letter',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Letter',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -3393,13 +3026,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'A brief, informal note that gives background information on a particular topic or issue',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'A brief, informal note that gives background information on a particular topic or issue',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -3416,15 +3042,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Note',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Note',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -3502,13 +3122,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'Slides produced that accompany and illustrate a presentation',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'Slides produced that accompany and illustrate a presentation',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -3525,15 +3138,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Presentation',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Presentation',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -3611,13 +3218,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'An official written statement that is sent to the media so that it can be publicized.',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'An official written statement that is sent to the media so that it can be publicized.',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -3634,15 +3234,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Press Release',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Press Release',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -3720,13 +3314,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => 'A dashboard document',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => 'A dashboard document',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -3743,15 +3330,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Dashboard',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Dashboard',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
@@ -3829,13 +3410,6 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => 'plain_text',
-          'summary' => NULL,
-          'value' => '',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => 'plain_text',
@@ -3852,15 +3426,9 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'language' => 'und',
+    'language' => 'en',
     'name' => 'Terms of Reference',
     'name_field' => array(
-      'und' => array(
-        0 => array(
-          'format' => NULL,
-          'value' => 'Terms of Reference',
-        ),
-      ),
       'en' => array(
         0 => array(
           'format' => NULL,
