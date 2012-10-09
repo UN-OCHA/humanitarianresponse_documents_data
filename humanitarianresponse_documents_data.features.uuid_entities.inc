@@ -42,6 +42,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'value' => 'Rapports',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Informes',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'document-types/reports',
@@ -90,6 +96,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '8354cddf-f005-34d4-e9f5-1f02ce24ec61',
@@ -133,6 +145,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Rapport d\'Analyse',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Reporte de análisis',
         ),
       ),
     ),
@@ -186,6 +204,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '2765ccd9-b42a-cae4-052b-0554b0530c4d',
@@ -229,6 +253,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Rapport d\'Evaluation',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Informe de Evaluación',
         ),
       ),
     ),
@@ -282,6 +312,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'd2b94d63-2c44-d594-2195-9b60397f11de',
@@ -318,6 +354,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Bulletin Humanitaire',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Boletín Humanitario',
         ),
       ),
     ),
@@ -371,6 +413,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '31afa99a-6f2a-1484-6504-9c60192befbb',
@@ -414,6 +462,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Rapport de Surveillance / d\'Evaluation',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Reporte de evaluación / monitoreo',
         ),
       ),
     ),
@@ -467,6 +521,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'be289d4d-8a56-3a74-1575-733640326e6e',
@@ -510,6 +570,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Rapport de Sécurité',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Informe sobre la Seguridad',
         ),
       ),
     ),
@@ -563,6 +629,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'b457a616-f2f8-6814-2d8e-1db72d6b41f3',
@@ -606,6 +678,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Rapport de Situation',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Informe Situacional',
         ),
       ),
     ),
@@ -659,6 +737,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'cb8c7108-c928-6384-e973-eb9b79240c94',
@@ -695,6 +779,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Instantané',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Infografía',
         ),
       ),
     ),
@@ -744,6 +834,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
@@ -879,6 +975,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'value' => 'Appel de Fonds',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Llamamiento',
+        ),
+      ),
     ),
     'parent' => array(
       0 => '60656201-6dbe-2d04-8916-aa3db035a121',
@@ -930,6 +1032,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '877e0db6-adbc-3c44-b9ab-3f72bb8263e4',
@@ -973,6 +1081,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Plan de Sécurité',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Plan de Seguridad',
         ),
       ),
     ),
@@ -1026,6 +1140,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '0eeeb862-fa30-9fa4-e9d3-82e2bfe2f1e0',
@@ -1069,6 +1189,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Plan de Travail',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Plan de Trabajo',
         ),
       ),
     ),
@@ -1122,6 +1248,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '0b04ceb2-f259-0774-2953-4d53988e8843',
@@ -1165,6 +1297,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Plan d\'Action Humanitaire',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Plan de Acción Humanitaria',
         ),
       ),
     ),
@@ -1218,6 +1356,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'eb43b378-a4f5-2454-e57c-0c318f1ff519',
@@ -1254,6 +1398,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Documents de Formation',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Materiales de Recursos y Formación',
         ),
       ),
     ),
@@ -1304,6 +1454,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'bff634e1-56a1-2ff4-85e6-93751814f2e5',
@@ -1347,6 +1503,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Etude de Cas',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Estudio de caso',
         ),
       ),
     ),
@@ -1400,6 +1562,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'bc460845-5c27-1234-65a1-c1afdddd4b38',
@@ -1443,6 +1611,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'FAQs',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Preguntas frecuentes',
         ),
       ),
     ),
@@ -1496,6 +1670,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '8aa14ce5-c267-6e84-41a5-631b262feac3',
@@ -1539,6 +1719,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Guide ou Manuel',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Guía o Manual',
         ),
       ),
     ),
@@ -1592,6 +1778,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'c5aa4c2c-f2df-7c84-9191-4e8914ab0eb3',
@@ -1635,6 +1827,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Fiche de conseils',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Guía rápida',
         ),
       ),
     ),
@@ -1688,6 +1886,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'e8f56524-3509-67f4-05fd-733fb484c732',
@@ -1731,6 +1935,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Boite à Outils / Trousse à Outils',
+        ),
+      ),
+       'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Caja de herramientas / kit de herramientas',
         ),
       ),
     ),
@@ -1784,6 +1994,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '3dba958e-4b5e-c5d4-b595-a0181f8762a2',
@@ -1827,6 +2043,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Outil',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Herramienta',
         ),
       ),
     ),
@@ -1880,6 +2102,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '5cf067ab-f1fd-f284-3d5b-dea91eaea796',
@@ -1923,6 +2151,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Modèle',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Plantilla',
         ),
       ),
     ),
@@ -1976,6 +2210,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '3f096983-5ec2-ae54-f107-0c582cc649fd',
@@ -2012,6 +2252,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Règles et Orientation',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Política & Orientación',
         ),
       ),
     ),
@@ -2062,6 +2308,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '15be65bb-4e55-97c4-b1a0-2af101848f22',
@@ -2105,6 +2357,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Evaluation',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Evaluación',
         ),
       ),
     ),
@@ -2158,6 +2416,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'ca7a34ac-e14a-6354-c193-df86bd9aa523',
@@ -2201,6 +2465,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Bonne Pratique',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Buenas Prácticas',
         ),
       ),
     ),
@@ -2254,6 +2524,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'e6a5ebfc-e41b-d964-019b-a8b7436253dc',
@@ -2297,6 +2573,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Règles',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Política',
         ),
       ),
     ),
@@ -2350,6 +2632,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '2d54eb2c-0ec0-ed74-29d9-a2f3c03a71d4',
@@ -2393,6 +2681,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Orientations',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Guias',
         ),
       ),
     ),
@@ -2446,6 +2740,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'fae58e5d-95b2-a9b4-558c-c1c0a1557d77',
@@ -2489,6 +2789,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Procédures Opératoires Normalisées',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Procedimientos Operativos Estándar',
         ),
       ),
     ),
@@ -2542,6 +2848,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '56e12e34-1a72-1534-4121-6b5971a8c2b4',
@@ -2578,6 +2890,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Autres',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Otros',
         ),
       ),
     ),
@@ -2624,6 +2942,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
@@ -2769,6 +3093,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'value' => 'Calendrier / Evenements',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Calendario / Eventos',
+        ),
+      ),
     ),
     'parent' => array(
       0 => 'b6176c55-ba7c-7914-993c-26e844fa42ce',
@@ -2820,6 +3150,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'c96449b4-1547-2474-51b7-796d9bef3df2',
@@ -2863,6 +3199,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Liste de Contacts',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Lista de Contactos',
         ),
       ),
     ),
@@ -2916,6 +3258,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '965dbbbb-6df5-2024-c92b-54621bf1f6cb',
@@ -2959,6 +3307,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Lettre',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Carta',
         ),
       ),
     ),
@@ -3012,6 +3366,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'cd3c994c-d65e-f7e4-9db1-6414a9003c9f',
@@ -3055,6 +3415,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Note',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Nota',
         ),
       ),
     ),
@@ -3108,6 +3474,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'd8872a30-1ff1-7bb4-3968-72bae1533500',
@@ -3151,6 +3523,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Présentation',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Presentación',
         ),
       ),
     ),
@@ -3204,6 +3582,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'b81d63b0-e52c-4194-4159-2b06ebe7ba2d',
@@ -3247,6 +3631,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Communiqué de Presse',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Comunicado de Prensa',
         ),
       ),
     ),
@@ -3300,6 +3690,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '4393c201-cf56-98f4-a1ce-98ce27f4bd90',
@@ -3343,6 +3739,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Tableau de Bord',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Tablero de control',
         ),
       ),
     ),
@@ -3396,6 +3798,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'a2b2f3ef-a445-d544-25d3-2e39a2cf36cc',
@@ -3439,6 +3847,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Terms of Reference',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Términos de Referencia',
         ),
       ),
     ),
@@ -3488,6 +3902,12 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
