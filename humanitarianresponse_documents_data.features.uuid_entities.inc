@@ -219,6 +219,107 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
   $entities['document_types'][] = (object) array(
     '__metadata' => array(
       'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/baf7c6de-cb53-494a-bd58-498ddbad375c',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'language' => 'en',
+    'name' => 'Annual Report',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Annual Report',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Rapport Annuel',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Informe Anual',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => '8354cddf-f005-34d4-e9f5-1f02ce24ec61',
+    ),
+    'path' => array(
+      'alias' => 'document-types/annual-report',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
+    'uuid' => 'baf7c6de-cb53-494a-bd58-498ddbad375c',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
       'uri' => 'taxonomy_term/d2b94d63-2c44-d594-2195-9b60397f11de',
       'cause' => FALSE,
     ),
@@ -536,6 +637,107 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
   $entities['document_types'][] = (object) array(
     '__metadata' => array(
       'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/bc45bde6-e50c-409a-9eee-dfaf5ad7019c',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'language' => 'en',
+    'name' => 'Progress Report',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Progress Report',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Compte Rendu',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Informe de Situación',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => '8354cddf-f005-34d4-e9f5-1f02ce24ec61',
+    ),
+    'path' => array(
+      'alias' => 'document-types/progress-report',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
+    'uuid' => 'bc45bde6-e50c-409a-9eee-dfaf5ad7019c',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
       'uri' => 'taxonomy_term/b457a616-f2f8-6814-2d8e-1db72d6b41f3',
       'cause' => FALSE,
     ),
@@ -847,6 +1049,107 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
       ),
     ),
     'uuid' => '74998571-0fee-f184-119c-73c1aedc9b10',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/43201818-d724-4e57-97fd-30c1df33bf9a',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'language' => 'en',
+    'name' => 'Workshop Report',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Workshop Report',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Rapport d\'Atelier',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Informe de Taller',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => '8354cddf-f005-34d4-e9f5-1f02ce24ec61',
+    ),
+    'path' => array(
+      'alias' => 'document-types/workshop-report',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
+    'uuid' => '43201818-d724-4e57-97fd-30c1df33bf9a',
     'vocabulary_machine_name' => 'document_types',
     'weight' => '0',
   );
