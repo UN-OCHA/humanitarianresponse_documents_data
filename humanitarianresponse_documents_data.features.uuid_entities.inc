@@ -4221,6 +4221,115 @@ function humanitarianresponse_documents_data_uuid_default_entities() {
     'vocabulary_machine_name' => 'document_types',
     'weight' => '0',
   );
+  
+  $entities['document_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/f7da7098-8d67-4295-9c25-561e2a14cbb4',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'language' => 'en',
+    'name' => '3W',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => '3W',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => '3W',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => '3W',
+        ),
+      ),
+    ),
+    'parent' => array(
+      0 => 'b6176c55-ba7c-7914-993c-26e844fa42ce',
+    ),
+    'path' => array(
+      'alias' => 'document-types/3w',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
+    'uuid' => 'f7da7098-8d67-4295-9c25-561e2a14cbb4',
+    'vocabulary_machine_name' => 'document_types',
+    'weight' => '0',
+  );
 
   return $entities;
 }
